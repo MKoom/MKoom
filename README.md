@@ -4,7 +4,7 @@ I am a PhD economist based in Switzerland. Please find below my published work w
 
 - [Demographics and current account imbalances: Accounting for the full age distribution,](https://link.springer.com/article/10.1057/s41308-022-00176-6) IMF Economic Review, 2023, joint with Laurence Wicht.
 
-  [Replication code](docs/paper1.pdf)
+  [Replication code](https://github.com/MKoom/Koomen_Wicht_2023)
   
 - [Pension systems and the current account: An empirical exploration,](https://www.sciencedirect.com/science/article/abs/pii/S0261560621001716) Journal of International Money and Finance, 2022, joint with Laurence Wicht.
 
