@@ -2,34 +2,28 @@
 
 I am a PhD economist based in Switzerland. Please find below my published work with the associated code
 
--[Demographics and current account imbalances: Accounting for the full age distribution,](https://link.springer.com/article/10.1057/s41308-022-00176-6)
-- Demographics and current account imbalances: Accounting for the full age distribution, IMF Economic Review, 2023, joint with Laurence Wicht.
-  Link: https://link.springer.com/article/10.1057/s41308-022-00176-6
-  Code:
+- [Demographics and current account imbalances: Accounting for the full age distribution,](https://link.springer.com/article/10.1057/s41308-022-00176-6) IMF Economic Review, 2023, joint with Laurence Wicht.
 
-- Pension systems and the current account: An empirical exploration, Journal of International Money and Finance, 2022, joint with Laurence Wicht.
-  https://www.sciencedirect.com/science/article/abs/pii/S0261560621001716
+  [Replication code](docs/paper1.pdf)
   
-- Occupational tasks and wage inequality in West Germany: A decomposition analysis, Labour Economics, 2022, joint with Uschi Backes-Gellner.
-  https://www.sciencedirect.com/science/article/abs/pii/S0927537122001749
-  
-- Interpersonal, cognitive and manual skills: How do they shape employment and wages?, Labour Economics, 2022, joint with Esther Mirjam Girsberger and Matthias Krapf.
-  https://www.sciencedirect.com/science/article/abs/pii/S0927537122001257
+- [Pension systems and the current account: An empirical exploration,](https://www.sciencedirect.com/science/article/abs/pii/S0261560621001716) Journal of International Money and Finance, 2022, joint with Laurence Wicht.
 
-- Regional innovation effects of applied research institutions, Research Policy, 2021, joint with Curdin Pfister, Dietmar Harhoff and Uschi Backes-Gellner.
-  https://www.sciencedirect.com/science/article/abs/pii/S0048733321000019
-  
-- Labour market transitions after layoffs: the role of occupational skills, Oxford Economic Papers, 2021, joint with Uschi Backes-Gellner. 
-  https://academic.oup.com/oep/article-abstract/73/1/76/5613775?redirectedFrom=fulltext
-  
-- Firms’ method of pay and the retention of apprentices, Oxford Economic Papers, 2020, joint with Uschi Backes-Gellner.
-  https://academic.oup.com/oep/article-abstract/72/1/269/5366185?redirectedFrom=fulltext
-  
-- Demographics and the current account, Aussenwirtschaft, 2018, joint with Joschka Gerigk and Adrien Wicht.  
-  https://www.econstor.eu/handle/10419/231255
-  
-- Occupational specificity: A new measurement based on training curricula and its effect on labor market outcomes, Labour Economics, 2018, joint with Christian Eggenberger and Uschi Backes-Gellner.  
-  https://www.sciencedirect.com/science/article/abs/pii/S0927537117303238
+- [Occupational tasks and wage inequality in West Germany: A decomposition analysis,](https://www.sciencedirect.com/science/article/abs/pii/S0927537122001749) Labour Economics, 2022, joint with Uschi Backes-Gellner.
+
+  [Replication code](docs/paper1.pdf)
+
+- [Interpersonal, cognitive and manual skills: How do they shape employment and wages?,](https://www.sciencedirect.com/science/article/abs/pii/S0927537122001749) Labour Economics, 2022, joint with Esther Mirjam Girsberger and Matthias Krapf.
+
+- [Regional innovation effects of applied research institutions,](https://www.sciencedirect.com/science/article/abs/pii/S0048733321000019) Research Policy, 2021, joint with Curdin Pfister, Dietmar Harhoff and Uschi Backes-Gellner.
+
+- [Labour market transitions after layoffs: the role of occupational skills,](https://academic.oup.com/oep/article-abstract/73/1/76/5613775?redirectedFrom=fulltext) Oxford Economic Papers, 2021, joint with Uschi Backes-Gellner. 
+
+- [Firms’ method of pay and the retention of apprentices,](https://academic.oup.com/oep/article-abstract/72/1/269/5366185?redirectedFrom=fulltext) Oxford Economic Papers, 2020, joint with Uschi Backes-Gellner. 
+
+- [Demographics and the current account,](https://www.econstor.eu/handle/10419/231255) Aussenwirtschaft, 2018, joint with Joschka Gerigk and Adrien Wicht.  
+
+- [Occupational specificity: A new measurement based on training curricula and its effect on labor market outcomes,](https://www.sciencedirect.com/science/article/abs/pii/S0927537117303238) Labour Economics, 2018, joint with Christian Eggenberger and Uschi Backes-Gellner. 
+
 
 
 <!--
