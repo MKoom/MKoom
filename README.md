@@ -10,7 +10,7 @@ I am a PhD economist based in Switzerland. Please find below my published work w
 
 - [Occupational tasks and wage inequality in West Germany: A decomposition analysis,](https://www.sciencedirect.com/science/article/abs/pii/S0927537122001749) Labour Economics, 2022, joint with Uschi Backes-Gellner.
 
-  [Replication code](https://github.com/MKoom/Koomen_Wicht_2023
+  [Replication code](https://github.com/MKoom/Backes-Gellner_Koomen_2022)
 
 - [Interpersonal, cognitive and manual skills: How do they shape employment and wages?,](https://www.sciencedirect.com/science/article/abs/pii/S0927537122001749) Labour Economics, 2022, joint with Esther Mirjam Girsberger and Matthias Krapf.
 
